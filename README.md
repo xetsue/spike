@@ -3,12 +3,14 @@ Offline Web-app Valorant Spike Timer
 
 (6s) Red is where spike is no longer defusable.
 
-Interval (s)
-Black : `45` to 31
-White : `30` to 21
-Yellow: `20` to 11
-Orange: `10` to 7
-Red   : `6` to 0
+| Color | Interval (s) |
+| -------- | -------- |
+| $\color{gray}{\text{Black}}$   | `45` to 31|
+| $\color{white}{\text{White}}$   | `30` to 21|
+| $\color{yellow}{\text{Yellow}}$  | `20` to 11|
+| $\color{orange}{\text{Orange}}$ |`10` to  7|
+| $\color{red}{\text{Red}}$ | `6 `  to  0|
+
 
 # Usage
 Use the [web-app](https://xetsue.github.io/spike) directly.
