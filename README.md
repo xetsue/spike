@@ -2,6 +2,7 @@
 Offline Web-app Valorant Spike Timer
 
 (6s) Red is where spike is no longer defusable.
+> 3.5s to half defuse, and a 7s for full.
 
 | Color | Interval (s) |
 | -------- | -------- |
